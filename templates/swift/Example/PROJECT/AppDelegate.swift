@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  PROJECT
+//  BattleNetAPI-Swift
 //
-//  Created by PROJECT_OWNER on TODAYS_DATE.
-//  Copyright (c) TODAYS_YEAR PROJECT_OWNER. All rights reserved.
+//  Created by dorukgezici on 05/16/2018.
+//  Copyright (c) 2018 dorukgezici. All rights reserved.
 //
 
 import UIKit
